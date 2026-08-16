@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
