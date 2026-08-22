@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anshu-1212/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anshu-1212/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sliding Window
 |  |
 | ------- |
