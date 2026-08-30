@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anshu-1212/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anshu-1212/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/Anshu-1212/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Anshu-1212/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshu-1212/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anshu-1212/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anshu-1212/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1386-cinema-seat-allocation](https://github.com/Anshu-1212/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Anshu-1212/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
