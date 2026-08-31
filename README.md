@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
 ## String
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anshu-1212/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Hash Table
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anshu-1212/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Anshu-1212/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anshu-1212/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
 ## Array
 |  |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
