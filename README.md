@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anshu-1212/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Array
 |  |
 | ------- |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anshu-1212/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anshu-1212/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anshu-1212/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Math
 |  |
 | ------- |
