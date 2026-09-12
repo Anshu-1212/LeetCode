@@ -1,39 +1,3 @@
-class Graph {
-    List<List<int[]>>adj;
-    int[]ans;
-    PriorityQueue<int[]>pq;
-    public Graph(int n, int[][] edges) {
-        ans=new int[n];
-        pq=new PriorityQueue<>((a,b)->a[1]-b[1]);
-        adj=new ArrayList<>();
-        for(int i=0;i<n;i++) adj.add(new ArrayList<>());
-        for(int[]e:edges) adj.get(e[0]).add(new int[]{e[1],e[2]});
-    }
-    
-    public void addEdge(int[] e) {
-        adj.get(e[0]).add(new int[]{e[1],e[2]});
-    }
-    
-    public int shortestPath(int node1, int node2) {
-        int n=adj.size();
-        Arrays.fill(ans,Integer.MAX_VALUE);
-        ans[node1]=0;
-        pq.add(new int[]{node1,0});
-        while(!pq.isEmpty()){
-            int[]t=pq.poll();
-            int node=t[0],wt=t[1];
-            if(wt>ans[node]) continue;
-            for(int[]a:adj.get(node)){
-                int nxnode=a[0];
-                int twt=wt+a[1];
-                if(twt>=ans[nxnode]) continue;
-                ans[nxnode]=twt;
-                pq.add(new int[]{nxnode,twt});
-            }
-        }
-        return ans[node2]==Integer.MAX_VALUE?-1:ans[node2];
-    }
-}
 // class Graph {
 //     List<List<int[]>>adj;
 //     int[]ans;
@@ -58,7 +22,6 @@ class Graph {
 //         while(!pq.isEmpty()){
 //             int[]t=pq.poll();
 //             int node=t[0],wt=t[1];
-//             if(node==node2) return wt;
 //             if(wt>ans[node]) continue;
 //             for(int[]a:adj.get(node)){
 //                 int nxnode=a[0];
@@ -68,9 +31,46 @@ class Graph {
 //                 pq.add(new int[]{nxnode,twt});
 //             }
 //         }
-//         return -1;
+//         return ans[node2]==Integer.MAX_VALUE?-1:ans[node2];
 //     }
 // }
+class Graph {
+    List<List<int[]>>adj;
+    int[]ans;
+    PriorityQueue<int[]>pq;
+    public Graph(int n, int[][] edges) {
+        ans=new int[n];
+        adj=new ArrayList<>();
+        for(int i=0;i<n;i++) adj.add(new ArrayList<>());
+        for(int[]e:edges) adj.get(e[0]).add(new int[]{e[1],e[2]});
+    }
+    
+    public void addEdge(int[] e) {
+        adj.get(e[0]).add(new int[]{e[1],e[2]});
+    }
+    
+    public int shortestPath(int node1, int node2) {
+        int n=adj.size();
+        pq=new PriorityQueue<>((a,b)->a[1]-b[1]);
+        Arrays.fill(ans,Integer.MAX_VALUE);
+        ans[node1]=0;
+        pq.add(new int[]{node1,0});
+        while(!pq.isEmpty()){
+            int[]t=pq.poll();
+            int node=t[0],wt=t[1];
+            if(wt>ans[node]) continue;
+            if(node==node2) return wt;
+            for(int[]a:adj.get(node)){
+                int nxnode=a[0];
+                int twt=wt+a[1];
+                if(twt>=ans[nxnode]) continue;
+                ans[nxnode]=twt;
+                pq.add(new int[]{nxnode,twt});
+            }
+        }
+        return -1;
+    }
+}
 
 /**
  * Your Graph object will be instantiated and called as such:
