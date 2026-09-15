@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0022-generate-parentheses) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3693-climbing-stairs-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anshu-1212/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1386-cinema-seat-allocation](https://github.com/Anshu-1212/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anshu-1212/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anshu-1212/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Bit Manipulation
 |  |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anshu-1212/LeetCode/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
