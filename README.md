@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anshu-1212/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anshu-1212/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anshu-1212/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anshu-1212/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anshu-1212/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Anshu-1212/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anshu-1212/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anshu-1212/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
