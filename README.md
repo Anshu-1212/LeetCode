@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshu-1212/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anshu-1212/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshu-1212/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anshu-1212/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshu-1212/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anshu-1212/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anshu-1212/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshu-1212/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Anshu-1212/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anshu-1212/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
