@@ -79,11 +79,11 @@ class Solution {
         }
         c=st.size();
         Set<String>set=new HashSet<>();
-        helper(s,0,c,"",set);
+        helper(new StringBuilder(s),0,c,"",set);
         return new ArrayList<>(set);
     }
     
-    public void helper(String s,int i,int c,String temp,Set<String>set){
+    public void helper(StringBuilder s,int i,int c,String temp,Set<String>set){
         if(c<0) return;
         if(i==s.length()){
             if(c==0 && valid(temp)) set.add(temp);
