@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anshu-1212/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshu-1212/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshu-1212/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anshu-1212/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anshu-1212/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anshu-1212/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Matrix
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Anshu-1212/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anshu-1212/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anshu-1212/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anshu-1212/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Bit Manipulation
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshu-1212/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
