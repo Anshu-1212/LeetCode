@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshu-1212/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Anshu-1212/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/Anshu-1212/LeetCode/tree/master/3978-unique-middle-element) |
 ## Graph Theory
 |  |
 | ------- |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/Anshu-1212/LeetCode/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
