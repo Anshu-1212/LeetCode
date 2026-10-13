@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu-1212/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshu-1212/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anshu-1212/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshu-1212/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Anshu-1212/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anshu-1212/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anshu-1212/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anshu-1212/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
