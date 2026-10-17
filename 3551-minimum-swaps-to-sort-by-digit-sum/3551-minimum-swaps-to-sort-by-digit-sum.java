@@ -61,26 +61,26 @@ class Solution {
             arr[i] = new Pair(i, nums[i], s);
         }
         Arrays.sort(arr);
-        int swaps = 0;
-        boolean[] visited = new boolean[n];
+        int sans = 0;
+        boolean[] vis = new boolean[n];
 
         for (int i = 0; i < n; i++) {
-            if (visited[i] || arr[i].i == i) {
+            if (vis[i] || arr[i].i == i) {
                 continue;
             }
 
             int j = i;
-            int cycleLength = 0;
+            int cl = 0;
 
-            while (!visited[j]) {
-                visited[j] = true;
+            while (!vis[j]) {
+                vis[j] = true;
                 j = arr[j].i;
-                cycleLength++;
+                cl++;
             }
 
-            swaps += cycleLength - 1;
+            sans += cl - 1;
         }
 
-        return swaps;
+        return sans;
     }
 }
