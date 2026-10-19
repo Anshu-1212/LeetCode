@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Anshu-1212/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anshu-1212/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshu-1212/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anshu-1212/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anshu-1212/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshu-1212/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshu-1212/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anshu-1212/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshu-1212/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anshu-1212/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anshu-1212/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshu-1212/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
