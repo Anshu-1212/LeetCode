@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
+| [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
+| [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Anshu-1212/LeetCode/tree/master/2236-root-equals-sum-of-children) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Sorting
 |  |
 | ------- |
