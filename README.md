@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
+| [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
+| [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Anshu-1212/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/Anshu-1212/LeetCode/tree/master/0740-delete-and-earn) |
+| [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anshu-1212/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshu-1212/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
+| [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anshu-1212/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Heap (Priority Queue)
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 ## Linked List
 |  |
 | ------- |
