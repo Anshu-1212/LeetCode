@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0120-triangle](https://github.com/Anshu-1212/LeetCode/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/Anshu-1212/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Anshu-1212/LeetCode/tree/master/0120-triangle) |
 | [0289-game-of-life](https://github.com/Anshu-1212/LeetCode/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/Anshu-1212/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
