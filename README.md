@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
+| [0474-ones-and-zeroes](https://github.com/Anshu-1212/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshu-1212/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Anshu-1212/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Anshu-1212/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0576-out-of-boundary-paths](https://github.com/Anshu-1212/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/Anshu-1212/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Anshu-1212/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Anshu-1212/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/Anshu-1212/LeetCode/tree/master/0740-delete-and-earn) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anshu-1212/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -375,9 +378,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Anshu-1212/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1049-last-stone-weight-ii](https://github.com/Anshu-1212/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Anshu-1212/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1049-last-stone-weight-ii](https://github.com/Anshu-1212/LeetCode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
