@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Anshu-1212/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/Anshu-1212/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshu-1212/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Anshu-1212/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/Anshu-1212/LeetCode/tree/master/0740-delete-and-earn) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Anshu-1212/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0494-target-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/Anshu-1212/LeetCode/tree/master/0740-delete-and-earn) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anshu-1212/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -373,10 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshu-1212/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshu-1212/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Knapsack Problem
 |  |
@@ -390,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Anshu-1212/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Anshu-1212/LeetCode/tree/master/1049-last-stone-weight-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
