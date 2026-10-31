@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Anshu-1212/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/Anshu-1212/LeetCode/tree/master/0740-delete-and-earn) |
 | [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/Anshu-1212/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anshu-1212/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anshu-1212/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/Anshu-1212/LeetCode/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anshu-1212/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anshu-1212/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Anshu-1212/LeetCode/tree/master/0740-delete-and-earn) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anshu-1212/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Anshu-1212/LeetCode/tree/master/0835-image-overlap) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/Anshu-1212/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anshu-1212/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anshu-1212/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Anshu-1212/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anshu-1212/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshu-1212/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
