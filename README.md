@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshu-1212/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anshu-1212/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshu-1212/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Anshu-1212/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anshu-1212/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshu-1212/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu-1212/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -289,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anshu-1212/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Anshu-1212/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anshu-1212/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anshu-1212/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Anshu-1212/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Anshu-1212/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
