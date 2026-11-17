@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Anshu-1212/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/Anshu-1212/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Anshu-1212/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/Anshu-1212/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [0834-sum-of-distances-in-tree](https://github.com/Anshu-1212/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Anshu-1212/LeetCode/tree/master/0399-evaluate-division) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Anshu-1212/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/Anshu-1212/LeetCode/tree/master/0690-employee-importance) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anshu-1212/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Anshu-1212/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Anshu-1212/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Anshu-1212/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Anshu-1212/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Anshu-1212/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Anshu-1212/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anshu-1212/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
