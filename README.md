@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
 | [2236-root-equals-sum-of-children](https://github.com/Anshu-1212/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anshu-1212/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anshu-1212/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Anshu-1212/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anshu-1212/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anshu-1212/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anshu-1212/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Anshu-1212/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## String
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Anshu-1212/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anshu-1212/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anshu-1212/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anshu-1212/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1600-throne-inheritance](https://github.com/Anshu-1212/LeetCode/tree/master/1600-throne-inheritance) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshu-1212/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshu-1212/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anshu-1212/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anshu-1212/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshu-1212/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anshu-1212/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshu-1212/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anshu-1212/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshu-1212/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anshu-1212/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Anshu-1212/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anshu-1212/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshu-1212/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
