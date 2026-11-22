@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshu-1212/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anshu-1212/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshu-1212/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anshu-1212/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Anshu-1212/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anshu-1212/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anshu-1212/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
