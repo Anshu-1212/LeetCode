@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Anshu-1212/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Anshu-1212/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3978-unique-middle-element](https://github.com/Anshu-1212/LeetCode/tree/master/3978-unique-middle-element) |
 ## Graph Theory
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshu-1212/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshu-1212/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anshu-1212/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshu-1212/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anshu-1212/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Anshu-1212/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anshu-1212/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshu-1212/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Anshu-1212/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anshu-1212/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
